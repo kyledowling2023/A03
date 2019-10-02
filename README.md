@@ -35,6 +35,8 @@ Quick history. Git was created by Linus Torvalds to address one issue; all curre
 
 That sounds awesome! How can I start using it? Well, users can always use the command line version but that’s tedious to setup and manage for a novice. This is where GitHub comes into play. GitHub is a GUI interface that allows people to use Git in a more familiar and easier to understand environment. Want to pull a new repo? Fork it. What about commits and changing code? All done on one’s local repo (forked). How do I know someone isn’t messing with my code? Owners and approved collaborators can manually add and remove commits. Each commit also creates its own version history too. GitHub basically provides an easy to follow graphical interface that can be understood and used by novices and experienced users.  
 
-Now how to start using GitHub to manage one’s Git repositories.
-1.)	Create a GitHub account at https://github.com/join
+Now how to start using GitHub to manage one’s Git repositories. 
+
+1.)	Create a GitHub account at https://github.com/
+
 2.)	Find a project at https://github.com/explore
