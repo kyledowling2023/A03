@@ -29,3 +29,4 @@ Fetch—same as pull but does not automatically update the local repo
 
 Remote—allows changes to be pulled from a remote repo, branch, etc and immediately applies those changes to the respective branch
 
+First and foremost, Git is how programmers share and collaborate on code and is integral in the work force for all things tech related. Being unfamiliar with Git says to your possible future employer that you do not care about the technological advancements over the course of the last two decades. 
