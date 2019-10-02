@@ -1,6 +1,8 @@
 # A03
 IS A03 Assignment 
 
+In order to understand git, we must first understand the basic functions and definitions of it.
+
 Git Definitions
 
 GIT--a form of supply chain management software and a distributed system that allows collaboration on code without the need for a network connection  
