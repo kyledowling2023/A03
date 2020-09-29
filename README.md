@@ -39,6 +39,8 @@ Now how to start using GitHub to manage one’s Git repositories.
 
 1.)	Create a GitHub account at https://github.com/
 
+2.) Find a project to controbute to at github.com/explore
+
 3.)	Contribute to that project 
   a.	Fork the project by clicking “Fork” towards the top right-hand side of the repo page 
   b.	Make your contribution by creating a file, uploading a file, or editing code 
