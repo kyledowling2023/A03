@@ -39,4 +39,13 @@ Now how to start using GitHub to manage one’s Git repositories.
 
 1.)	Create a GitHub account at https://github.com/
 
-2.)	Find a project at https://github.com/explore
+3.)	Contribute to that project 
+  a.	Fork the project by clicking “Fork” towards the top right-hand side of the repo page 
+  b.	Make your contribution by creating a file, uploading a file, or editing code 
+  c.	Under “Commit changes” at the bottom of the page, click “Commit directly to master branch.” Remember, this applies the changes to       your local repo that was forked earlier
+  d.	Pull the most current version of the master (original) branch 
+  e.	Near the top of the page, click “Create new pull request”
+  f.	If there are no possible merge conflicts, click “create pull request”. This will let the author(s) of the original repo know that       someone has a possible fix for those devs to incorporate. 
+  g.	You made a contribution!
+4.)	If the maintainers of that project agree that the fix is feasible, they will push it to their source code. 
+
